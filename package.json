@@ -1,0 +1,25 @@
+{
+  "name": "svg-mapper",
+  "version": "1.0.0",
+  "description": "Embedded many .sgv files into one and create a ccs file to implement it in yours projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danny908/svgMapper.git"
+  },
+  "keywords": [
+    "svg",
+    "css",
+    "sprites",
+    "html",
+    "vector",
+    "icon",
+    "stack"
+  ],
+  "author": "Daniel Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danny908/svgMapper/issues"
+  },
+  "homepage": "https://github.com/Danny908/svgMapper#readme"
+}
